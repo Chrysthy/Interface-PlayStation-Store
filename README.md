@@ -1,8 +1,12 @@
-# Interface PlayStation Store
+# PlayStation Store Interface
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
 
-<p> <img src="assets/psn-store.gif" alt=""> </p>
+<br>
+
+<img src="assets/psn-store.gif" alt="">
+
+<br>
 
 ## Development server
 
