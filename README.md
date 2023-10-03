@@ -4,9 +4,11 @@ This project was generated with [Angular CLI](https://github.com/angular/angular
 
 <br>
 
-<img src="assets/psn-store.gif" alt="">
 
-<br>
+![Screenshot_1](https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/8447291c-ec6d-42d2-a981-f3f4dfa3b6ab)
+
+![Screenshot_2](https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/04723194-74df-4247-b1e5-c721dbf2ad9b)
+
 
 ## Development server
 
