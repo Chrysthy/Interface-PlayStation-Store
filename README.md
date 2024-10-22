@@ -32,12 +32,14 @@ Run `ng generate component component-name` to generate a new component. You can 
 Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
 
 
-<br>
-<hr>
-<h2> Suggestions </h2>
-<p> Do you want to add or report an error? Please, feel free to do it! 😉 </p>
+## 🫱🏻‍🫲🏻 Contributing
+
+Contributions, issues, and feature requests are welcome! Please follow the contribution guidelines in the `CONTRIBUTING.md` file.
 
 <br>
-<hr>
-<h2> Support </h2>
-<p> If you liked it, press the Star ⭐ Button, please! 😄 </p>
+
+## 🌟 Support
+
+If you like this project, please give it a star ⭐ and share it with others! 😄
+
+<br>
