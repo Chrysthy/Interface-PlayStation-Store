@@ -6,6 +6,7 @@
   <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+	<a href="#-usage">Usage</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -13,11 +14,15 @@
   <a href="#-contact">Contact</a>
 </p>
 
+<br>
+
+## 📸 Screenshots
 
 ![Screenshot_1](https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/8447291c-ec6d-42d2-a981-f3f4dfa3b6ab)
 
 ![Screenshot_2](https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/04723194-74df-4247-b1e5-c721dbf2ad9b)
 
+<br>
 
 ## Development server
 
