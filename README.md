@@ -1,8 +1,17 @@
-# PlayStation Store Interface
+<h1 align="center">PlayStation Store Interface 🎮</h1>
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2.
+<p align="center">A web interface for the PlayStation Store built with Angular. 🕹️</p>
 
-<br>
+<p align="center">
+  <a href="#-screenshots">Screenshots</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-features">Features</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-support">Support</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-contact">Contact</a>
+</p>
 
 
 ![Screenshot_1](https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/8447291c-ec6d-42d2-a981-f3f4dfa3b6ab)
