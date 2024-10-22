@@ -25,9 +25,11 @@
 <br>
 
 ## 🛠 Technologies
-* Angular
+* TypeScript
 * HTML
 * CSS
+* JavaScript
+* Angular
 
 <br>
 
@@ -52,6 +54,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2. It was created to practice and improve skills in:
 - Angular for building dynamic web applications
+- TypeScript for type-safe JavaScript development
 - HTML and CSS for creating structured and styled web pages
 - Version control using Git and collaboration through GitHub
 
