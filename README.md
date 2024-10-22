@@ -31,6 +31,13 @@
 
 <br>
 
+## ✨ Features
+
+- [x] Dynamic content rendering using Angular
+- [x] Efficient state management with Angular services
+
+<br>
+
 ## ⚙ Usage
 
 1. Run the development server:
