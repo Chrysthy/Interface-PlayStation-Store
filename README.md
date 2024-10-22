@@ -10,8 +10,7 @@
   <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-license">License</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-contributing">Contributing</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-support">Support</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-contact">Contact</a>
+  <a href="#-support">Support</a>
 </p>
 
 <br>
@@ -25,18 +24,37 @@
 
 <br>
 
-## Development server
+## 🛠 Technologies
+* Angular
+* HTML
+* CSS
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+<br>
 
-## Code scaffolding
+## ⚙ Usage
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+1. Run the development server:
+    ```sh
+    ng serve
+    ```
+2. Open your browser and navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
 
-## Build
+<br>
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
+## 💻 Project
 
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.2. It was created to practice and improve skills in:
+- Angular for building dynamic web applications
+- HTML and CSS for creating structured and styled web pages
+- Version control using Git and collaboration through GitHub
+
+<br>
+
+## 📜 License
+
+This project is licensed under the [MIT License](https://choosealicense.com/licenses/mit/).
+
+<br>
 
 ## 🫱🏻‍🫲🏻 Contributing
 
