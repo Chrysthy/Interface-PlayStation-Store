@@ -18,9 +18,10 @@
 
 ## 📸 Screenshots
 
-![Screenshot_1](https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/8447291c-ec6d-42d2-a981-f3f4dfa3b6ab)
-
-![Screenshot_2](https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/04723194-74df-4247-b1e5-c721dbf2ad9b)
+<p align="center">
+  <img src="https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/8447291c-ec6d-42d2-a981-f3f4dfa3b6ab" alt="Screenshot 1" width="70%">
+  <img src="https://github.com/Chrysthy/Interface-PlayStation-Store/assets/126017173/04723194-74df-4247-b1e5-c721dbf2ad9b" alt="Screenshot 2" width="70%">
+</p>
 
 <br>
 
